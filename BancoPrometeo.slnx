@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="API/BancoPrometeo.API/BancoPrometeo.API.csproj" />
+    <Project Path="API/BancoPrometeo.Application/BancoPrometeo.Application.csproj" />
+    <Project Path="API/BancoPrometeo.Domain/BancoPrometeo.Domain.csproj" />
+    <Project Path="API/BancoPrometeo.Infrastructure/BancoPrometeo.Infrastructure.csproj" />
+  </Folder>
+</Solution>
